@@ -26,15 +26,15 @@ body {
 }
 
 .btn-success:hover {
-  background-color: #FFD90E;
+  background-color: #e6e6ff;
 
 }
 .btn-success:active {
-  background-color: #FFD90E;
+  background-color: #e6e6ff;
 
 }
 .btn-success:focus {
-  background-color: #FFD90E;
+  background-color: #e6e6ff;
 
 }
 
@@ -63,7 +63,7 @@ body {
 
 .navbar-default {    
 
-	background-color: #D1B270!important;
+	background-color: #e6e6ff!important;
     border-color: #E7E7E7!important;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 2rem;
@@ -85,7 +85,7 @@ body {
     padding-bottom: 120px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: 	#FFD90E!important;
+    background-color: 	#e6e6ff!important;
 	
 	
 }
@@ -171,6 +171,11 @@ h2 {
     background-color: #4F76DF!important;
     border-color:  #70D1FF!important;
 }
+.btn-success {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
 .btn {
     display: inline-block;
     padding: 6px 12px;
@@ -241,9 +246,9 @@ a:hover {
 	/* Full height */
 	overflow: auto;
 	/* Enable scroll if needed */
-	background-color:#FFD90E!important;
+	background-color:#e6e6ff!important;
 	/* Fallback color */
-	background-color: #FFD90E!important;
+	background-color: #e6e6ff!important;
 	/* Black w/ opacity */
 }
 
@@ -255,13 +260,13 @@ a:hover {
 	font-weight: 100;
 	color: #343a40;
 	font-size: 1.5rem;
-	background-color: £FFD90E;
+	background-color: £e6e6ff;
 	margin: 15% auto;
 	/* 15% from the top and centered */
 	padding: 20px;
 	border: 1px solid #D1B270;
 	width: 60%;
-		background-color: #FFD90E!important;
+		background-color: #e6e6ff!important;
 	
 	/* Could be more or less, depending on screen size */
 }
